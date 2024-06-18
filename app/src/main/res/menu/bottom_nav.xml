@@ -5,7 +5,8 @@
     <item
         android:id="@+id/teacherInfoFragment"
         android:title="Уч.состав"
-        android:icon="@drawable/teachers"/>
+        android:icon="@drawable/teachers"
+        android:iconTint="@color/white"/>
     <item
         android:id="@+id/mainFragment"
         android:title="Главная"
@@ -14,4 +15,5 @@
         android:id="@+id/settingsFragment"
         android:title="Настройки"
         android:icon="@drawable/settings"/>
+
 </menu>

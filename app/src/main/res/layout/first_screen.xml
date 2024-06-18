@@ -51,6 +51,8 @@
         android:background="@drawable/custom_white_semcorners_item"
         android:fontFamily="@font/involve_regular"
         android:hint="Введите группу..."
+        android:textColor="@color/black"
+        android:textColorHint="@color/black"
         android:padding="12dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.285"
